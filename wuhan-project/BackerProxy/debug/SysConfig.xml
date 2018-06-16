@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ConfigInfo>
+	<QueueIP></QueueIP>
+	<QueueName>whhg_InToOut</QueueName>
+	<QueueLabel></QueueLabel>
+	
+	<WEB_MQ_QueueIP>192.168.32.27</WEB_MQ_QueueIP>
+	<WEB_MQ_QueueName>whhg_InToOut2</WEB_MQ_QueueName>
+	<WEB_MQ_QueueLabel></WEB_MQ_QueueLabel>
+	
+	<FRONT_MQ_QueueIP>192.168.32.27</FRONT_MQ_QueueIP>
+	<FRONT_MQ_QueueName>whhg_InToOut</FRONT_MQ_QueueName>
+	<FRONT_MQ_QueueLabel></FRONT_MQ_QueueLabel>
+
+	<GLW_MQ_QueueIP>192.168.32.25</GLW_MQ_QueueIP>
+	<GLW_MQ_QueueName>whhg_OutToIn</GLW_MQ_QueueName>
+	<GLW_MQ_QueueLabel></GLW_MQ_QueueLabel>		
+</ConfigInfo>

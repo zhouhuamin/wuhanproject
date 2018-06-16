@@ -1,0 +1,35 @@
+2014-09-16 14:04:03.546 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 14:04:17.781 Message clm10011.cpp(CCLM10011::SaveToDB, 339): insert into D_RELEASE_DICTATE_BILL, MESSAGE_ID=20140901150944672293
+2014-09-16 14:04:22.312 Message clm10011.cpp(CCLM10011::SaveToDB, 365): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150944672293, CONTA_NO=UESU2120355
+2014-09-16 14:04:24.890 Message clm10011.cpp(CCLM10011::SaveToDB, 365): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150944672293, CONTA_NO=UESU2120356
+2014-09-16 14:13:58.546 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 14:15:37.109 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 14:15:49.125 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_RELEASE_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,BILL_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME, VERSION) 														values('20140901150944672293', '4708', 'I', 'HENG LONG 8', '8092A101', 'TW0906YN0350', '', 														'2', 'CLM10011', '4708', '470820140001', '2014-09-01 15:09:44', GetDate(), '1.0'), 违反了 PRIMARY KEY 约束 'PK_D_RELEASE_DICTATE_BILL'。不能在对象 'dbo.D_RELEASE_DICTATE_BILL' 中插入重复键。
+2014-09-16 14:19:33.656 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 14:19:44.562 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_RELEASE_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,BILL_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME, VERSION) 														values('20140901150944672293', '4708', 'I', 'HENG LONG 8', '8092A101', 'TW0906YN0350', '', 														'2', 'CLM10011', '4708', '470820140001', '2014-09-01 15:09:44', GetDate(), '1.0'), 违反了 PRIMARY KEY 约束 'PK_D_RELEASE_DICTATE_BILL'。不能在对象 'dbo.D_RELEASE_DICTATE_BILL' 中插入重复键。
+2014-09-16 14:23:41.125 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 14:32:46.953 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 14:33:03.421 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_RELEASE_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,NOTE) 														values('20140901150944672293', 'UESU2120355', 'L', '', ''), 违反了 PRIMARY KEY 约束 'PK_D_RELEASE_DICTATE_CONTA'。不能在对象 'dbo.D_RELEASE_DICTATE_CONTA' 中插入重复键。
+2014-09-16 15:09:06.750 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 15:11:20.281 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 15:11:43.687 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 15:31:57.328 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 16:51:19.390 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:16:08.203 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:19:18.515 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:20:22.796 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:20:49.781 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:34:05.223 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:36:11.311 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:41:26.820 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:44:30.568 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:50:20.717 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:52:17.053 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:52:42.945 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-16 20:53:00.790 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1
+2014-09-16 20:55:28.534 Message mt3101.cpp(CMT3101::SaveToDB, 510): insert into D_REACH_GOODS_DETAIL, MESSAGE_ID=1
+2014-09-16 20:56:03.005 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-16 20:56:09.068 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_REACH_HEAD(MESSAGE_ID,DECL_OFFICE_ID,TRANS_NAME,TRANS_CODE,JOURNEY_ID,TYPE_CODE,LINE_FLAG,DISCHARGE_CODE,ARRIVAL_DATE,CONTENT,INPUT_TIME) 														values('1', '8', '12', '11', '9', '1', ' ', '13', '2014-09-15 21:51:23.000', '28', GetDate()), 违反了 PRIMARY KEY 约束 'PK_D_REACH_HEAD'。不能在对象 'dbo.D_REACH_HEAD' 中插入重复键。
+2014-09-16 20:56:09.068 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-16 20:56:09.083 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_REACH_BILL(MESSAGE_ID,BILL_NO,MEDLEY_BILL_NO,PACK_NO,TYPE_CODE,TOTAL_GROSS_MAME) 															values('1', '15', '16', '17.00000', '18', '19.00000'), 违反了 PRIMARY KEY 约束 'PK_D_REACH_BILL'。不能在对象 'dbo.D_REACH_BILL' 中插入重复键。
+2014-09-16 20:56:09.083 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1

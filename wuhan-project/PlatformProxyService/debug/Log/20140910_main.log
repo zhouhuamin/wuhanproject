@@ -1,0 +1,4 @@
+2014-09-10 13:36:15.312 Message platformproxyservicedlg.cpp(CPlatformProxyServiceDlg::OnBnClickedButtonStart, 171): 读取配置文件!
+2014-09-10 13:36:33.812 Message platformproxyservicedlg.cpp(CPlatformProxyServiceDlg::OnBnClickedButtonStop, 200): 停止监控!
+2014-09-10 13:36:42.687 Message platformproxyservicedlg.cpp(CPlatformProxyServiceDlg::OnBnClickedButtonStart, 171): 读取配置文件!
+2014-09-10 13:36:50.953 Message platformproxyservicedlg.cpp(CPlatformProxyServiceDlg::OnBnClickedButtonStop, 200): 停止监控!

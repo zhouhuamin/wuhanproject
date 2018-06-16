@@ -1,0 +1,57 @@
+2014-12-04 08:50:21.984 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, root, WHHGWL, 172.16.123.109
+2014-12-04 08:51:07.796 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 08:52:27.343 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 08:54:13.531 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 08:55:59.500 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:17:02.000 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, root, WHHGWL, 172.16.123.112
+2014-12-04 09:17:44.453 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:19:30.546 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:21:16.750 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:23:02.843 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:24:49.046 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:26:35.031 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:28:21.125 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:30:07.218 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:31:53.203 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:33:39.187 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:35:25.171 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:37:11.156 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:38:57.140 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:40:43.234 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:42:29.328 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:44:15.531 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:46:01.734 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:47:47.828 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:49:34.031 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:51:20.234 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 09:53:06.218 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-12-04 20:29:09.578 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, root, WHHGWL, 192.168.3.112
+2014-12-04 20:35:07.015 Message mt3101.cpp(CMT3101::SaveToDB, 649): Enter CMT3101::SaveToDB
+2014-12-04 20:35:07.250 Message mt3101.cpp(CMT3101::SaveToDB, 738): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203306647444
+2014-12-04 20:35:57.921 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 20:38:14.062 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 20:49:17.140 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 20:51:16.156 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 20:57:30.000 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:41:09.250 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:42:51.312 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:46:32.734 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:46:32.750 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:47:08.796 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:47:23.640 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204203432103483
+2014-12-04 21:59:17.671 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204214510813154
+2014-12-04 22:00:25.640 Message csm301.cpp(CCSM301::SaveToDB, 1227): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204214510813154
+2014-12-04 22:14:36.593 Message mt2101.cpp(CMT2101::SaveToDB, 1351): Enter CMT2101::SaveToDB
+2014-12-04 22:14:36.859 Message mt2101.cpp(CMT2101::SaveToDB, 1442): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204221232108719
+2014-12-04 22:22:49.500 Message mt2101.cpp(CMT2101::SaveToDB, 1351): Enter CMT2101::SaveToDB
+2014-12-04 22:22:49.859 Message mt2101.cpp(CMT2101::SaveToDB, 1442): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204221232108719
+2014-12-04 22:26:13.531 Message mt2101.cpp(CMT2101::SaveToDB, 1351): Enter CMT2101::SaveToDB
+2014-12-04 22:26:13.796 Message mt2101.cpp(CMT2101::SaveToDB, 1442): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204221232108719
+2014-12-04 22:27:21.593 Message clm32101.cpp(CCLM32101::SaveToDB, 655): Enter CCLM32101::SaveToDB
+2014-12-04 22:27:21.593 Message clm32101.cpp(CCLM32101::SaveToDB, 655): Enter CCLM32101::SaveToDB
+2014-12-04 22:27:21.609 Message clm32101.cpp(CCLM32101::SaveToDB, 655): Enter CCLM32101::SaveToDB
+2014-12-04 22:27:21.609 Message clm32101.cpp(CCLM32101::SaveToDB, 655): Enter CCLM32101::SaveToDB
+2014-12-04 22:30:28.625 Message mt2101.cpp(CMT2101::SaveToDB, 1351): Enter CMT2101::SaveToDB
+2014-12-04 22:30:28.875 Message mt2101.cpp(CMT2101::SaveToDB, 1442): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204222913871824
+2014-12-04 22:32:46.031 Message mt3101.cpp(CMT3101::SaveToDB, 649): Enter CMT3101::SaveToDB
+2014-12-04 22:32:46.125 Message mt3101.cpp(CMT3101::SaveToDB, 738): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=20141204223135046976

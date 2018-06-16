@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ConfigInfo>
+	<QueueIP></QueueIP>
+	<QueueName>whhg_InToOut2</QueueName>
+	<QueueLabel></QueueLabel>
+	<SqlServerDatabase>
+		<DataUser>sa</DataUser>
+		<DataPwd>root</DataPwd>
+		<DataName>WHHGWL</DataName>
+		<DataServer>192.168.32.25</DataServer>
+	</SqlServerDatabase>
+</ConfigInfo>

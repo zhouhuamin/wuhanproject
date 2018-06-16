@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Message>
+  <MessageHead>
+    <MessageID>20140904130537383926</MessageID>
+    <FunctionCode>2</FunctionCode>
+    <MessageType>CSM002</MessageType>
+    <SenderID>C001</SenderID>
+    <ReceiverID>4708</ReceiverID>
+    <SendTime>2014-09-04 13:05:37</SendTime>
+    <Version>1.0</Version>
+  </MessageHead>
+  <MessageBody>
+    <Declaration>
+      <BorderTransPortMeans>
+        <ID>IMO001</ID>
+        <Name>HENG LONG 8</Name>
+        <JourneyID>8092A101</JourneyID>
+        <Itinerary>
+          <ArrivalDateTime>2014-08-28 10:10:10</ArrivalDateTime>
+        </Itinerary>
+        <StayID>3#</StayID>
+        <DepartureConveyanceFacility>
+          <ID>南京</ID>
+        </DepartureConveyanceFacility>
+        <ArrivalConveyanceFacility>
+          <ID>阳逻</ID>
+        </ArrivalConveyanceFacility>
+      </BorderTransPortMeans>
+      <LoadingLocation>
+        <LoadingDate>2014-05-25 10:10:10</LoadingDate>
+      </LoadingLocation>
+      <Agent>
+        <ID>001</ID>
+        <Contact>
+          <Name>C001</Name>
+        </Contact>
+      </Agent>
+      <IssueDate>2014-09-04 13:05:37</IssueDate>
+      <AdditionalInformation>
+        <Content></Content>
+      </AdditionalInformation>
+    </Declaration>
+  </MessageBody>
+</Message>

@@ -1,0 +1,40 @@
+2014-09-01 13:00:27.078 Message contanounloaderservice.cpp(ReadConfigInfo, 554): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 13:08:32.812 Message contanounloaderservice.cpp(ReadConfigInfo, 554): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 13:09:58.578 Message contanounloaderservice.cpp(ReadConfigInfo, 554): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 14:15:43.343 Message contanounloaderservice.cpp(ReadConfigInfo, 559): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:00:14.875 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:04:15.765 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:05:52.906 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:06:12.015 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:07:56.656 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:10:40.984 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME, SEND_FLAG) 														values('20140830165940868', '4708', 'I', 'HENG LONG 8', '8092A101', '', 															   '2', 'CLM10041', '4708', '4708000001', '2014-08-30 16:59:40', GetDate(), '1'), ²»ÄÜ½«Öµ NULL ²åÈëÁÐ 'SEND_TIME'£¬±í 'WHHGWL.dbo.D_SHIP_DICTATE_BILL'£»ÁÐ²»ÔÊÐíÓÐ Null Öµ¡£INSERT Ê§°Ü¡£
+2014-09-01 15:10:40.984 Message clm10041.cpp(CCLM10041::SaveToDB, 327): insert into D_SHIP_DICTATE_BILL, MESSAGE_ID=20140830165940868
+2014-09-01 15:10:40.984 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,SEAL_NO,SHIP_STATE, NOTE) 														values('20140830165940868', 'UESU2120355', 'L', '', '', '1', '1'), INSERT Óï¾äÓë FOREIGN KEY Ô¼Êø"F_SHIP_DICTATE_CONTA"³åÍ»¡£¸Ã³åÍ»·¢ÉúÓÚÊý¾Ý¿â"WHHGWL"£¬±í"dbo.D_SHIP_DICTATE_BILL", column 'MESSAGE_ID'¡£
+2014-09-01 15:10:40.984 Message clm10041.cpp(CCLM10041::SaveToDB, 349): insert into D_SHIP_DICTATE_CONTA, MESSAGE_ID=20140830165940868, CONTA_NO=UESU2120355
+2014-09-01 15:10:40.984 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,SEAL_NO,SHIP_STATE, NOTE) 														values('20140830165940868', 'UESU2120356', 'L', '', '', '1', '1'), INSERT Óï¾äÓë FOREIGN KEY Ô¼Êø"F_SHIP_DICTATE_CONTA"³åÍ»¡£¸Ã³åÍ»·¢ÉúÓÚÊý¾Ý¿â"WHHGWL"£¬±í"dbo.D_SHIP_DICTATE_BILL", column 'MESSAGE_ID'¡£
+2014-09-01 15:10:40.984 Message clm10041.cpp(CCLM10041::SaveToDB, 349): insert into D_SHIP_DICTATE_CONTA, MESSAGE_ID=20140830165940868, CONTA_NO=UESU2120356
+2014-09-01 15:21:52.640 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:22:13.265 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME, SEND_FLAG) 														values('20140830165940868', '4708', 'I', 'HENG LONG 8', '8092A101', '', 															   '2', 'CLM10041', '4708', '4708000001', '2014-08-30 16:59:40', GetDate(), '1'), ²»ÄÜ½«Öµ NULL ²åÈëÁÐ 'SEND_TIME'£¬±í 'WHHGWL.dbo.D_SHIP_DICTATE_BILL'£»ÁÐ²»ÔÊÐíÓÐ Null Öµ¡£INSERT Ê§°Ü¡£
+2014-09-01 15:22:13.265 Message clm10041.cpp(CCLM10041::SaveToDB, 327): insert into D_SHIP_DICTATE_BILL, MESSAGE_ID=20140830165940868
+2014-09-01 15:22:13.265 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,SEAL_NO,SHIP_STATE, NOTE) 														values('20140830165940868', 'UESU2120355', 'L', '', '', '1', '1'), INSERT Óï¾äÓë FOREIGN KEY Ô¼Êø"F_SHIP_DICTATE_CONTA"³åÍ»¡£¸Ã³åÍ»·¢ÉúÓÚÊý¾Ý¿â"WHHGWL"£¬±í"dbo.D_SHIP_DICTATE_BILL", column 'MESSAGE_ID'¡£
+2014-09-01 15:22:13.265 Message clm10041.cpp(CCLM10041::SaveToDB, 349): insert into D_SHIP_DICTATE_CONTA, MESSAGE_ID=20140830165940868, CONTA_NO=UESU2120355
+2014-09-01 15:22:13.265 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,SEAL_NO,SHIP_STATE, NOTE) 														values('20140830165940868', 'UESU2120356', 'L', '', '', '1', '1'), INSERT Óï¾äÓë FOREIGN KEY Ô¼Êø"F_SHIP_DICTATE_CONTA"³åÍ»¡£¸Ã³åÍ»·¢ÉúÓÚÊý¾Ý¿â"WHHGWL"£¬±í"dbo.D_SHIP_DICTATE_BILL", column 'MESSAGE_ID'¡£
+2014-09-01 15:22:13.265 Message clm10041.cpp(CCLM10041::SaveToDB, 349): insert into D_SHIP_DICTATE_CONTA, MESSAGE_ID=20140830165940868, CONTA_NO=UESU2120356
+2014-09-01 15:41:26.453 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:45:33.343 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:46:49.156 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:46:57.625 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_RELEASE_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,BILL_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME) 														values('20140901150949140293Í2', '4708ÍIÍHENG LONG 8', 'I', 'HENG LONG 8', '8092A101', 'TW0906YN0350', '', 														'2', 'CLM10011', '4708', '470820140001', '2014-09-01 15:09:49', GetDate()), ½«½Ø¶Ï×Ö·û´®»ò¶þ½øÖÆÊý¾Ý¡£
+2014-09-01 15:46:57.640 Message clm10011.cpp(CCLM10011::SaveToDB, 325): insert into D_RELEASE_DICTATE_BILL, MESSAGE_ID=20140901150949140293Í2
+2014-09-01 15:46:57.640 Message clm10011.cpp(CCLM10011::SaveToDB, 347): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150949140293Í2, CONTA_NO=UESU2120355
+2014-09-01 15:46:57.656 Message clm10011.cpp(CCLM10011::SaveToDB, 347): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150949140293Í2, CONTA_NO=UESU2120356
+2014-09-01 15:53:56.500 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 15:53:58.703 Message clm10011.cpp(CCLM10011::SaveToDB, 328): insert into D_RELEASE_DICTATE_BILL, MESSAGE_ID=20140901150906314293
+2014-09-01 15:53:58.703 Message clm10011.cpp(CCLM10011::SaveToDB, 350): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150906314293, CONTA_NO=UESU2120355
+2014-09-01 15:53:58.718 Message clm10011.cpp(CCLM10011::SaveToDB, 350): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150906314293, CONTA_NO=UESU2120356
+2014-09-01 16:00:06.375 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 16:04:01.968 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 16:04:23.265 Message contanounloaderservice.cpp(ReadConfigInfo, 570): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 16:59:54.078 Message contanounloaderservice.cpp(ReadConfigInfo, 575): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 17:02:04.671 Message contanounloaderservice.cpp(ReadConfigInfo, 575): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 17:18:03.125 Message contanounloaderservice.cpp(ReadConfigInfo, 575): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-01 17:19:49.406 Message contanounloaderservice.cpp(ReadConfigInfo, 575): sa, @samples123, WHHGWL, 192.168.34.232

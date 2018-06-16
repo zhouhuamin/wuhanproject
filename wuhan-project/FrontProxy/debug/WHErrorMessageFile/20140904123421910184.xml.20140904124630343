@@ -1,0 +1,101 @@
+<Manifest>
+  <Head>
+    <MessageID>20140904123421910184</MessageID>
+    <FunctionCode>2</FunctionCode>
+    <MessageType>MT4101</MessageType>
+    <SenderID>C001</SenderID>
+    <ReceiverID>4708</ReceiverID>
+    <SendTime>2014-09-04 12:34:31</SendTime>
+    <Version>1.0</Version>
+  </Head>
+  <Declaration>
+    <Carrier>
+      <ID>1</ID>
+    </Carrier>
+    <BorderTransportMeans>
+      <ID>1</ID>
+      <Name>1</Name>
+      <JourneyId>1</JourneyId>
+      <TypeCode>1</TypeCode>
+    </BorderTransportMeans>
+    <Consignment>
+      <TransportContractDocument>
+        <ID>2</ID>
+      </TransportContractDocument>
+      <LoadingLocation>
+        <ID>2</ID>
+        <LoadingDate>2014-09-04 12:33:47</LoadingDate>
+      </LoadingLocation>
+      <ConsignmentPackaging>
+        <QuantityQuantity>2</QuantityQuantity>
+        <TypeCode>2</TypeCode>
+      </ConsignmentPackaging>
+      <TotalGrossMassMeasure>2</TotalGrossMassMeasure>
+      <TransportSplitIndicator>2</TransportSplitIndicator>
+      <TransportEquipment>
+        <EquipmentIdentification>
+          <ID>3</ID>
+        </EquipmentIdentification>
+        <TypeFlag>1</TypeFlag>
+        <CharacteristicCode>3</CharacteristicCode>
+        <FullnessCode>3</FullnessCode>
+        <SealID AgencyCode="3"/>
+      </TransportEquipment>
+      <TransportEquipment>
+        <EquipmentIdentification>
+          <ID>4</ID>
+        </EquipmentIdentification>
+        <TypeFlag>1</TypeFlag>
+        <CharacteristicCode>4</CharacteristicCode>
+        <FullnessCode>4</FullnessCode>
+        <SealID AgencyCode="4"/>
+      </TransportEquipment>
+      <ConsignmentItem>
+        <Commodity>
+          <CargoDescription></CargoDescription>
+        </Commodity>
+      </ConsignmentItem>
+    </Consignment>
+    <Consignment>
+      <TransportContractDocument>
+        <ID>5</ID>
+      </TransportContractDocument>
+      <LoadingLocation>
+        <ID>5</ID>
+        <LoadingDate>2014-09-04 12:34:08</LoadingDate>
+      </LoadingLocation>
+      <ConsignmentPackaging>
+        <QuantityQuantity>5</QuantityQuantity>
+        <TypeCode>5</TypeCode>
+      </ConsignmentPackaging>
+      <TotalGrossMassMeasure>5</TotalGrossMassMeasure>
+      <TransportSplitIndicator>5</TransportSplitIndicator>
+      <TransportEquipment>
+        <EquipmentIdentification>
+          <ID>6</ID>
+        </EquipmentIdentification>
+        <TypeFlag>1</TypeFlag>
+        <CharacteristicCode>6</CharacteristicCode>
+        <FullnessCode>6</FullnessCode>
+        <SealID AgencyCode="6"/>
+      </TransportEquipment>
+      <TransportEquipment>
+        <EquipmentIdentification>
+          <ID>7</ID>
+        </EquipmentIdentification>
+        <TypeFlag>1</TypeFlag>
+        <CharacteristicCode>7</CharacteristicCode>
+        <FullnessCode>7</FullnessCode>
+        <SealID AgencyCode="7"/>
+      </TransportEquipment>
+      <ConsignmentItem>
+        <Commodity>
+          <CargoDescription></CargoDescription>
+        </Commodity>
+      </ConsignmentItem>
+    </Consignment>
+    <AdditionalInformation>
+      <Content>无备注信息</Content>
+    </AdditionalInformation>
+  </Declaration>
+</Manifest>

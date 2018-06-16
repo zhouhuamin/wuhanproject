@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ConfigInfo>
+	<QueueIP></QueueIP>
+	<QueueName>whhg_InToOut</QueueName>
+	<QueueLabel></QueueLabel>
+	
+	<WEB_MQ_QueueIP></WEB_MQ_QueueIP>
+	<WEB_MQ_QueueName>whhg_InToOut</WEB_MQ_QueueName>
+	<WEB_MQ_QueueLabel></WEB_MQ_QueueLabel>
+	
+	<FRONT_MQ_QueueIP></FRONT_MQ_QueueIP>
+	<FRONT_MQ_QueueName>whhg_InToOut</FRONT_MQ_QueueName>
+	<FRONT_MQ_QueueLabel></FRONT_MQ_QueueLabel>
+
+	<GLW_MQ_QueueIP></GLW_MQ_QueueIP>
+	<GLW_MQ_QueueName>whhg_InToOut</GLW_MQ_QueueName>
+	<GLW_MQ_QueueLabel></GLW_MQ_QueueLabel>		
+</ConfigInfo>

@@ -1,0 +1,15 @@
+2014-08-30 08:48:54.410 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232
+2014-08-30 11:25:49.441 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232
+2014-08-30 11:41:12.879 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232
+2014-08-30 11:57:13.519 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME, SEND_FLAG) 														values('20140830115404623', '4708', 'I', 'HENG LONG 8', '8092A101', '', 															   '2', 'CLM10041', '4708', '4708000001', '2014-08-30 11:54:04', GetDate(), '1'), 不能将值 NULL 插入列 'SEND_TIME'，表 'WHHGWL.dbo.D_SHIP_DICTATE_BILL'；列不允许有 Null 值。INSERT 失败。
+2014-08-30 11:57:13.519 Message clm10041.cpp(CCLM10041::SaveToDB, 325): insert into D_SHIP_DICTATE_BILL, MESSAGE_ID=20140830115404623
+2014-08-30 11:57:13.519 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,SEAL_NO,SHIP_STATE, NOTE) 														values('20140830115404623', 'UESU2120355', 'L', '', '', '1', '1'), INSERT 语句与 FOREIGN KEY 约束"F_SHIP_DICTATE_CONTA"冲突。该冲突发生于数据库"WHHGWL"，表"dbo.D_SHIP_DICTATE_BILL", column 'MESSAGE_ID'。
+2014-08-30 11:57:13.519 Message clm10041.cpp(CCLM10041::SaveToDB, 347): insert into D_SHIP_DICTATE_CONTA, MESSAGE_ID=20140830115404623, CONTA_NO=UESU2120355
+2014-08-30 11:57:13.519 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 182): insert into D_SHIP_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,SEAL_NO,SHIP_STATE, NOTE) 														values('20140830115404623', 'UESU2120356', 'L', '', '', '1', '1'), INSERT 语句与 FOREIGN KEY 约束"F_SHIP_DICTATE_CONTA"冲突。该冲突发生于数据库"WHHGWL"，表"dbo.D_SHIP_DICTATE_BILL", column 'MESSAGE_ID'。
+2014-08-30 11:57:13.519 Message clm10041.cpp(CCLM10041::SaveToDB, 347): insert into D_SHIP_DICTATE_CONTA, MESSAGE_ID=20140830115404623, CONTA_NO=UESU2120356
+2014-08-30 11:57:13.597 Message msmqapiwrapper.cpp(CMSMQApiWrapper::SendStreamMessage, 1022): in ReadStreamMessage: open queue failed
+2014-08-30 11:57:13.613 Message clm10041.cpp(CCLM10041::UpdateDB, 439): update D_SHIP_DICTATE_BILL, MESSAGE_ID=20140830115404623, SEND_FLAG='2'
+2014-08-30 13:43:44.613 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232
+2014-08-30 14:27:03.660 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232
+2014-08-30 14:41:27.879 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232
+2014-08-30 14:50:04.707 Message contanounloaderservice.cpp(ReadConfigInfo, 546): sa, @samples123, WHHGWL, 192.168.34.232

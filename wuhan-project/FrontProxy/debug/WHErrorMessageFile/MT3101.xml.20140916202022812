@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Manifest xmlns="urn:Declaration:datamodel:standard:CN:[Name]:1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Head>
+    <MessageID>1</MessageID>
+    <FunctionCode>2</FunctionCode>
+    <MessageType>MT3101</MessageType>
+    <SenderID>4</SenderID>
+    <ReceiverID>5</ReceiverID>
+    <SendTime>6</SendTime>
+    <Version>7</Version>
+  </Head>
+  <Declaration>
+    <DeclarationOfficeID>8</DeclarationOfficeID>
+    <BorderTransportMeans>
+      <JourneyID>9</JourneyID>
+      <TypeCode>10</TypeCode>
+      <ID>11</ID>
+      <Name>12</Name>
+    </BorderTransportMeans>
+    <UnloadingLocation>
+      <ID>13</ID>
+      <ArrivalDate>14</ArrivalDate>
+    </UnloadingLocation>
+    <Consignment>
+      <TransportContractDocument>
+        <ID>15</ID>
+      </TransportContractDocument>
+      <AssociatedTransportDocument>
+        <ID>16</ID>
+      </AssociatedTransportDocument>
+      <ConsignmentPackaging>
+        <QuantityQuantity>17</QuantityQuantity>
+        <TypeCode>18</TypeCode>
+      </ConsignmentPackaging>
+      <TotalGrossMassMeasure>19</TotalGrossMassMeasure>
+      <ConsignmentItem>
+        <SequenceNumeric>20</SequenceNumeric>
+        <ConsignmentItemPackaging>
+          <MarksNumbers>21</MarksNumbers>
+        </ConsignmentItemPackaging>
+        <Commodity>
+          <CargoDescription>22</CargoDescription>
+        </Commodity>
+        <AdditionalInformation>
+          <Content>23</Content>
+        </AdditionalInformation>
+      </ConsignmentItem>
+    </Consignment>
+    <TransportEquipment>
+      <EquipmentIdentification>
+        <ID>24</ID>
+      </EquipmentIdentification>
+      <CharacteristicCode>25</CharacteristicCode>
+      <FullnessCode>26</FullnessCode>
+      <SealID AgencyCode="27">a1</SealID>
+      <SealID AgencyCode="X27">a2</SealID>
+      <SealID AgencyCode="XX27">a3</SealID>
+    </TransportEquipment>
+    <AdditionalInformation>
+      <Content>28</Content>
+    </AdditionalInformation>
+  </Declaration>
+</Manifest>

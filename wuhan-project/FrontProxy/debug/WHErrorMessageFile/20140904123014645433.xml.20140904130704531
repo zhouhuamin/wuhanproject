@@ -1,0 +1,43 @@
+<Message>
+  <MessageHead>
+    <MessageID>20140904123014618921</MessageID>
+    <FunctionCode>2</FunctionCode>
+    <MessageType>CSM002</MessageType>
+    <SenderID>C001</SenderID>
+    <ReceiverID>4708</ReceiverID>
+    <SendTime>2014-09-04 12:30:14.654 CST</SendTime>
+    <Version>1.0</Version>
+  </MessageHead>
+  <MessageBody>
+    <Declaration>
+      <BorderTransPortMeans>
+        <ID>111</ID>
+        <Name>11</Name>
+        <JourneyID>321</JourneyID>
+        <Itinerary>
+          <ArrivalDateTime>2014-09-04 00:00:00.0 CST</ArrivalDateTime>
+        </Itinerary>
+        <StayID>11</StayID>
+        <DepartureConveyanceFacility>
+          <ID>11</ID>
+        </DepartureConveyanceFacility>
+        <ArrivalConveyanceFacility>
+          <ID>11</ID>
+        </ArrivalConveyanceFacility>
+      </BorderTransPortMeans>
+      <LoadingLocation>
+        <LoadingDate>2014-09-04 00:00:00</LoadingDate>
+      </LoadingLocation>
+      <Agent>
+        <ID>001</ID>
+        <Contact>
+          <Name>C001</Name>
+        </Contact>
+      </Agent>
+      <IssueDate>2014-09-04 12:30:14</IssueDate>
+      <AdditionalInformation>
+        <Content>11</Content>
+      </AdditionalInformation>
+    </Declaration>
+  </MessageBody>
+</Message>

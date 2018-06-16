@@ -1,0 +1,40 @@
+module: TestProfiler01.exe
+0x00001000 _wmain
+0x000010a4 operator delete(void *)
+0x000010aa CWinApp::CWinApp(wchar_t const *)
+0x000010b0 CWinApp::~CWinApp(void)
+0x000010b6 AfxWinInit(struct HINSTANCE__ *,struct HINSTANCE__ *,wchar_t *,int)
+0x000010bc @__security_check_cookie@4
+0x000010cb __onexit
+0x00001170 _atexit
+0x00001425 _wmainCRTStartup
+0x0000142f ___report_gsfailure
+0x00001534 __unlock
+0x0000153a ___dllonexit
+0x00001540 __lock
+0x00001548 __SEH_prolog4
+0x0000158d __SEH_epilog4
+0x000015a1 __except_handler4
+0x000015c4 __CxxUnhandledExceptionFilter(struct _EXCEPTION_POINTERS *)
+0x00001601 ___CxxSetUnhandledExceptionFilter
+0x00001610 __amsg_exit
+0x00001616 __RTC_Initialize
+0x0000163a __RTC_Terminate
+0x0000165e __XcptFilter
+0x00001670 __ValidateImageBase
+0x000016a0 __FindPESection
+0x000016f0 __IsNonwritableInCurrentImage
+0x000017ac __initterm
+0x000017b2 __initterm_e
+0x000017b8 __setdefaultprecision
+0x000017e1 __matherr
+0x000017e1 __wsetargv
+0x000017e4 ___security_init_cookie
+0x00001878 terminate(void)
+0x0000187e __crt_debugger_hook
+0x00001884 __except_handler4_common
+0x0000188a __invoke_watson
+0x00001890 __controlfp_s
+0x00001896 __pexit
+0x0000189c __penter
+0x000018b0 __allrem

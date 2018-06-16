@@ -1,0 +1,46 @@
+2014-09-10 13:36:15.359 Message communicatemodule.cpp(CCommunicateModule::CCommunicateModule, 24): CCommunicateModule init success
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_ServerListenThread, 459): 退出监听线程 
+
+2014-09-10 13:36:33.546 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:33.812 Message communicatemodule.cpp(CCommunicateModule::StopListening, 166): 停止所有线程.
+2014-09-10 13:36:42.687 Message communicatemodule.cpp(CCommunicateModule::CCommunicateModule, 24): CCommunicateModule init success
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_CompletionPortWorkerThread, 730): 退出工作线程 
+
+2014-09-10 13:36:50.687 Message communicatemodule.cpp(_ServerListenThread, 459): 退出监听线程 
+
+2014-09-10 13:36:50.953 Message communicatemodule.cpp(CCommunicateModule::StopListening, 166): 停止所有线程.

@@ -1,0 +1,51 @@
+2014-09-17 09:23:52.843 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 09:24:17.265 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-17 09:24:21.593 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1
+2014-09-17 09:24:45.671 Message mt3101.cpp(CMT3101::SaveToDB, 510): insert into D_REACH_GOODS_DETAIL, MESSAGE_ID=1
+2014-09-17 09:28:04.218 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 09:29:31.468 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 09:29:43.609 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-17 09:29:47.875 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1
+2014-09-17 09:29:56.250 Message mt3101.cpp(CMT3101::SaveToDB, 510): insert into D_REACH_GOODS_DETAIL, MESSAGE_ID=1
+2014-09-17 09:30:41.468 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 09:30:50.093 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-17 09:30:52.437 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1
+2014-09-17 09:30:56.812 Message mt3101.cpp(CMT3101::SaveToDB, 510): insert into D_REACH_GOODS_DETAIL, MESSAGE_ID=1
+2014-09-17 09:33:29.015 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 09:33:42.046 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-17 09:33:47.468 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1
+2014-09-17 09:34:31.953 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 09:34:42.906 Message mt3101.cpp(CMT3101::SaveToDB, 467): insert into D_REACH_HEAD, MESSAGE_ID=1
+2014-09-17 09:34:45.109 Message mt3101.cpp(CMT3101::SaveToDB, 487): insert into D_REACH_BILL, MESSAGE_ID=1
+2014-09-17 09:34:48.437 Message mt3101.cpp(CMT3101::SaveToDB, 510): insert into D_REACH_GOODS_DETAIL, MESSAGE_ID=1
+2014-09-17 09:34:57.328 Message mt3101.cpp(CMT3101::SaveToDB, 565): insert into D_REACH_CONTA, MESSAGE_ID=1
+2014-09-17 09:46:36.078 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 10:48:27.578 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 10:48:53.781 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_LOADING_BILL(MESSAGE_ID,BILL_NO,LOADING_ID,LOADING_DATE,PACK_NO,TYPE_CODE,GROSS_WT,TRANS_FLAG) 															values('1', '13', '14', '15', '16.00000', '1', '18.00000', '19'), 从字符串转换日期和/或时间时，转换失败。
+2014-09-17 10:51:56.375 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 11:19:28.859 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 11:23:48.031 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 11:25:08.390 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 14:15:23.593 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 14:16:01.843 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 14:28:11.171 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:35:08.718 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:35:56.765 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:38:29.359 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:40:45.562 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:44:29.562 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:45:44.453 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:55:24.921 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:57:44.093 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 16:58:03.593 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_EXMANIFEST_BILL(MESSAGE_ID,BILL_NO,PACK_NO,GROSS_WT,LINE_FLAG,															ChangeReasonCode, ConditionCode, Consolidator_ID, LoadingLocation_ID, LoadingDate,															UnloadingLocation_ID, ArrivalDate, TranshipmentLocation_ID, TransitDestination_ID, CustomsStatusCode,															TransportSplitIndicator, TypeCode,COMP_FLAG,SET_FLAG) 															values('1', '19', '39.00000', '41.00000', '1', 															'20', '21', '22', '26', '2014-09-15 21:51:23.000', 															'28', '2014-09-15 21:51:23.000', '32', '33', '36', 															'37', '40','1'), INSERT 语句中列的数目大于 VALUES 子句中指定的值的数目。VALUES 子句中值的数目必须与 INSERT 语句中指定的列的数目匹配。
+2014-09-17 16:58:39.359 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 17:04:38.500 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 17:05:14.828 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_EXMANIFEST_GOODS(MESSAGE_ID,BILL_NO,G_NO,G_NAME,PACK_TYPE,																	GOODS_AMOUNT,GOODS_WEIGHT,CONTA_NO,CurrentCode,UCR_ID,CONTENT,INPUT_TIME) 																	values('1', '19', 'X95', 'X99', '3', 'X96','24', 'X104', 'X105', 'X106', '108', GetDate()), 从数据类型 varchar 转换为 numeric 时出错。
+2014-09-17 17:06:59.921 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 17:07:26.765 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_EXMANIFEST_GOODS(MESSAGE_ID,BILL_NO,G_NO,G_NAME,PACK_TYPE,																	GOODS_AMOUNT,GOODS_WEIGHT,CONTA_NO,CurrentCode,UCR_ID,CONTENT,INPUT_TIME) 																	values('1', '19', '0', 'X99', '3', 'X96','24', 'X104', 'X105', 'X106', '108', GetDate()), 从数据类型 varchar 转换为 numeric 时出错。
+2014-09-17 17:08:21.812 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 17:11:50.218 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 17:12:52.046 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_EXMANIFEST_GOODS(MESSAGE_ID,BILL_NO,G_NO,G_NAME,PACK_TYPE,																	GOODS_AMOUNT,GOODS_WEIGHT,CONTA_NO,CurrentCode,UCR_ID,CONTENT,INPUT_TIME) 																	values('1', '19', 0, 'X99', '3', 'X96','24', 'X104', 'X105', 'X106', '108', GetDate()), 从数据类型 varchar 转换为 numeric 时出错。
+2014-09-17 17:14:48.843 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-17 17:15:45.500 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_EXMANIFEST_CONTA(MESSAGE_ID,BILL_NO,CONTA_NO,NOTES, CONTA_SIZE, CONTA_TYPE,FULLNESSCODE,SEAL_ID,SEAL_TYPE,AGENCY_CODE) 																values('1', '19', '90', '108', '3', '4','9', 'x', '', '3'), 列名 'CONTA_NO' 无效。
+2014-09-17 17:19:58.609 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232

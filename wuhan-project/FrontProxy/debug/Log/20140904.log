@@ -1,0 +1,10 @@
+2014-09-04 10:30:07.312 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-04 10:31:09.437 Message clm10011.cpp(CCLM10011::SaveToDB, 338): insert into D_RELEASE_DICTATE_BILL, MESSAGE_ID=20140903200913822293
+2014-09-04 10:31:16.625 Message clm10011.cpp(CCLM10011::SaveToDB, 364): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140903200913822293, CONTA_NO=UESU2120355
+2014-09-04 10:31:43.296 Message clm10011.cpp(CCLM10011::SaveToDB, 364): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140903200913822293, CONTA_NO=UESU2120356
+2014-09-04 12:35:44.578 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-04 12:46:27.109 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-04 12:47:52.765 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-04 12:49:34.343 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-04 13:07:03.453 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-04 13:26:33.531 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232

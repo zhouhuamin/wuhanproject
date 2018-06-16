@@ -1,0 +1,11 @@
+一、PlatformProxyService 平台服务安装步骤:
+1. 安装 vcredist_x86.exe
+2. 运行 WIN + R命令,调出运行对话框，把文件JZMonitorProxy.exe拖放到打开窗口, 文件名后输入 <空格-install>,点击确定即可,如下所示
+E:\武汉物流项目\PlatformProxyService\release\PlatformProxyService.exe -install
+3. 从服务列表中启动服务。
+
+二、EnterpriseProxy.exe 企业服务安装步骤跟上面一样
+E:\武汉物流项目\EnterpriseProxy\release\EnterpriseProxy.exe -install
+
+三、ContaNoUnloaderService 服务安装步骤跟上面一样
+E:\武汉物流项目\ContaNoUnloaderService\release\ContaNoUnloaderService.exe -install

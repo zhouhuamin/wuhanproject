@@ -1,0 +1,4 @@
+2014-09-22 19:26:10.265 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-22 19:26:27.656 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+2014-09-22 19:26:49.828 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-22 19:27:06.437 Message radatabase.cpp(CRADatabase::RAConnect, 105): [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。

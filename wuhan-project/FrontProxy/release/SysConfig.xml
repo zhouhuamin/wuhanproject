@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ConfigInfo>
+	<QueueIP></QueueIP>
+	<QueueName>whhg_InToOut</QueueName>
+	<QueueLabel></QueueLabel>
+	<BackerQueueIP>192.168.32.24</BackerQueueIP>
+	<BackerQueueName>whhg_InToOut</BackerQueueName>
+	<BackerQueueLabel></BackerQueueLabel>
+</ConfigInfo>

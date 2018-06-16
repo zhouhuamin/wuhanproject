@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlatformProxyService", "PlatformProxyService\PlatformProxyService.vcproj", "{0162004E-4DDF-4BBA-B278-6CD8FFBA0984}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A} = {8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CurrencyCommunicate", "CurrencyCommunicate\CurrencyCommunicate.vcproj", "{8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0D451A22-F6F8-4B02-BF09-B13B5DFBA361} = {0D451A22-F6F8-4B02-BF09-B13B5DFBA361}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataTransact", "DataTransact\DataTransact.vcproj", "{0D451A22-F6F8-4B02-BF09-B13B5DFBA361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0162004E-4DDF-4BBA-B278-6CD8FFBA0984}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0162004E-4DDF-4BBA-B278-6CD8FFBA0984}.Debug|Win32.Build.0 = Debug|Win32
+		{0162004E-4DDF-4BBA-B278-6CD8FFBA0984}.Release|Win32.ActiveCfg = Release|Win32
+		{0162004E-4DDF-4BBA-B278-6CD8FFBA0984}.Release|Win32.Build.0 = Release|Win32
+		{8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A}.Debug|Win32.Build.0 = Debug|Win32
+		{8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A}.Release|Win32.ActiveCfg = Release|Win32
+		{8C5F3EC8-0B43-442A-974B-0B6D0B8F0C2A}.Release|Win32.Build.0 = Release|Win32
+		{0D451A22-F6F8-4B02-BF09-B13B5DFBA361}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D451A22-F6F8-4B02-BF09-B13B5DFBA361}.Debug|Win32.Build.0 = Debug|Win32
+		{0D451A22-F6F8-4B02-BF09-B13B5DFBA361}.Release|Win32.ActiveCfg = Release|Win32
+		{0D451A22-F6F8-4B02-BF09-B13B5DFBA361}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

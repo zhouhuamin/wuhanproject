@@ -1,0 +1,38 @@
+2014-09-19 10:25:54.593 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 10:26:17.531 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_CHECK_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CHK_MODE,CHK_PLACE,CHK_FLAG, NOTE) values('20140901150944672293', 'UESU2120355', ', 字符串 '' 后的引号不完整。
+2014-09-19 10:31:06.046 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 10:32:37.937 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_CHECK_DICTATE_CONTA(MESSAGE_ID,CONTA_NO,CHK_MODE,CHK_PLACE,CHK_FLAG, NOTE) values('20140901150944672293', 'UESU2120355', ', 字符串 '' 后的引号不完整。
+2014-09-19 10:36:34.984 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 11:19:54.343 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 13:37:45.906 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 13:38:54.671 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 13:39:40.656 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 13:41:21.109 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 14:09:15.187 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 14:09:39.109 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_SHIP_DICTATE_BILL(MESSAGE_ID,CUSTOMS_CODE,I_E_FLAG,SHIP_NAME_EN,VOYAGE_NO,NOTE, 														FUNCTION_CODE, MESSAGE_TYPE, SENDER, RECEIVER, CREATE_TIME, INPUT_TIME, SEND_FLAG, VERSION) 														values('20140919110900212293', '4708', 'I', 'TANNIKE', '900SE', '', 														'2', 'CLM10051', '4708', '4708000003', '2014-09-19 11:09:00', GetDate(), '1', '1.0'), 列名 'FUNCTION_CODE' 无效。
+2014-09-19 14:16:12.953 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 17:21:53.234 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 17:23:29.296 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 17:31:47.156 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 17:52:59.234 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 17:55:11.968 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 17:55:39.421 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 18:00:04.609 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 18:00:20.796 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 18:04:27.390 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 18:04:53.703 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 19:07:43.796 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 19:07:53.343 Message clm30011.cpp(CCLM30011::SaveToDB, 353): insert into D_RELEASE_DICTATE_BILL, MESSAGE_ID=20140901150944672293
+2014-09-19 19:07:55.687 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_CONTA_LOCATION_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,NOTE,BILL_NO,CONTA_LOCATION) 														values('20140901150944672293', 'UESU2120355', 'L', '', '','TW0906YN0350','22'), 列名 'CONTA_MODEL' 无效。
+2014-09-19 19:07:55.687 Message clm30011.cpp(CCLM30011::SaveToDB, 379): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150944672293, CONTA_NO=UESU2120355
+2014-09-19 19:07:55.703 Message radatabase.cpp(CRADatabase::RAExecuteNoRs, 185): insert into D_CONTA_LOCATION_CONTA(MESSAGE_ID,CONTA_NO,CONTA_MODEL,CONTA_SIZE,NOTE,BILL_NO,CONTA_LOCATION) 														values('20140901150944672293', 'UESU2120356', 'L', '', '','TW0906YN0350','23'), 列名 'CONTA_MODEL' 无效。
+2014-09-19 19:07:55.703 Message clm30011.cpp(CCLM30011::SaveToDB, 379): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150944672293, CONTA_NO=UESU2120356
+2014-09-19 19:09:49.562 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 19:10:02.546 Message clm30011.cpp(CCLM30011::SaveToDB, 353): insert into D_RELEASE_DICTATE_BILL, MESSAGE_ID=20140901150944672293
+2014-09-19 19:14:35.546 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 19:14:39.859 Message clm30011.cpp(CCLM30011::SaveToDB, 393): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150944672293, CONTA_NO=UESU2120355
+2014-09-19 19:14:39.906 Message clm30011.cpp(CCLM30011::SaveToDB, 393): insert into D_RELEASE_DICTATE_CONTA, MESSAGE_ID=20140901150944672293, CONTA_NO=UESU2120356
+2014-09-19 19:54:39.453 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 19:56:49.515 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
+2014-09-19 19:56:53.593 Message mt4101.cpp(CMT4101::SaveToDB, 677): insert into D_CUSTOMREPORT_RESPONSE, MESSAGE_ID=1www
+2014-09-19 22:00:19.734 Message contanounloaderservice.cpp(ReadConfigInfo, 583): sa, @samples123, WHHGWL, 192.168.34.232
